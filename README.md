@@ -57,10 +57,6 @@ An interactive Power BI dashboard is available:
 
 > 📌 Note: To view the dashboard, download the PBIX file and open it in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
 
-Example Dashboard Screenshot:
-
-![Sales Overview Dashboard](dashboards/dashboard_screenshots/sales_overview_1.png)
-
 ---
 
 ## 📬 Contact
