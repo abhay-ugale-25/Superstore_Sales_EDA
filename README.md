@@ -59,7 +59,7 @@ An interactive Power BI dashboard is available:
 
 Example Dashboard Screenshot:
 
-![Sales Overview Dashboard](dashboards/dashboard_screenshots/sales_overview.png)
+![Sales Overview Dashboard](dashboards/dashboard_screenshots/sales_overview_1.png)
 
 ---
 
