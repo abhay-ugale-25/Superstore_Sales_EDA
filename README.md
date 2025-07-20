@@ -59,13 +59,6 @@ An interactive Power BI dashboard is available:
 
 ---
 
-## 📬 Contact
-
-If you’re interested in collaborating or hiring for data analytics projects:
-- abhayugale3000@gmail.com
-
----
-
 ## 🚀 How to Use This Project
 
 1. Clone this repository:
