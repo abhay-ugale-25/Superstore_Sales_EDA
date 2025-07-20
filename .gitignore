@@ -11,4 +11,3 @@ Thumbs.db
 # Ignore temporary Jupyter checkpoint files
 .ipynb_checkpoints/
 
-.gitignore
